@@ -5,5 +5,5 @@
     — to determine the degree of deuces.\n
   Other features of the package will be available in updates...\n
   To use the package sasdata an object of type 'NumSystems' and call the methods through this object.\n
-Autor: developer2920|\n
+Autor: developer2920\n
 !!!OPEN SOURCE!!!
